@@ -54,3 +54,10 @@ refs/
   enemies-silhouette/
   ui-presentation/
   videos/
+### Reference entry
+- File / link:
+- Category: armor / architecture / lighting / combat / atmosphere
+- What stands out:
+- Reuse for Black Sigil:
+- Do not copy:
+- Priority: high / medium / low
